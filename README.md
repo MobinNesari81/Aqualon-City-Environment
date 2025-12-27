@@ -1,6 +1,6 @@
 # Rain Grid World
 
-Design and developed by: **Mobin Nesari**, **Farhang Taher Ardakani** and **Hanieh Ghorbanpour**
+Design and developed by: **Mobin Nesari** and **Farhang Taher Ardakani**
 
 ## Lore
 
